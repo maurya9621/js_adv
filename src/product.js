@@ -12,7 +12,6 @@ var cart = [];
           alert("salary is equal to zero or less than zero");
           debugger;
          }
-        //  debugger;
        else if(Salary<30000){
          "use strict";
          Salary = 30000;
